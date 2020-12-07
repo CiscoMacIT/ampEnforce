@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!bin/bash
 
 ## HEADER
 # Package Title: Cisco AMP Enforcer 1.14+
